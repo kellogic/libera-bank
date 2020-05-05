@@ -2,7 +2,7 @@
 - This is a demonstration for a POS system. To ensure that cashiers give customers the correct (and optimal) set of change - this system will compute the change (based on US currency).
 
 ## About the app
-This repository contains two separated apps.
+This repository contains two separate apps.
 - The Client which provides the Front end (using React).
 - The Backend which provides the REST service (in Node/Express).
 
